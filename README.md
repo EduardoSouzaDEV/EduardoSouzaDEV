@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Bem-vindo+ao+meu+GitHub!&color=FF0000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Bem-vindo+ao+meu+GitHub!&color=#39FF14)](https://git.io/typing-svg)
 
   <p align="right" top="-500%">
     <img src="https://i.pinimg.com/originals/e5/4a/fa/e54afabd75adb33464e85f2687b43f87.gif" 
