@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Bem-vindo+ao+meu+GitHub!&color=FF0000)](https://git.io/typing-svg)
 
   <p align="right" top="-500%">
-    <img src="https://steamuserimages-a.akamaihd.net/ugc/2208514167417838946/475CCC2D9D0EA1AD89B6F70C97ED809F54D02F01/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" 
+    <img src="https://i.pinimg.com/originals/e5/4a/fa/e54afabd75adb33464e85f2687b43f87.gif" 
          alt="gif" 
          width="300">
   </p>
